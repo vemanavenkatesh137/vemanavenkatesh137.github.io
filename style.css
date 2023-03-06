@@ -335,18 +335,6 @@ h6{
   font-size: 16px;
   position: relative;
 }
-.center button[type=input] {
-  background: #18d26e;
-  border: 0;
-  padding: 10px 30px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 4px;
-}
-
-.center button[type=input]:hover {
-  background: #15bb62;
-}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
